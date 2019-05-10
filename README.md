@@ -1,1 +1,3 @@
-# apcsp-scripts
+#!/bin/bash
+
+echo "hello"
